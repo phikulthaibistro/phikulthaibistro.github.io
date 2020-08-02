@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.372d8c52.chunk.css",
+    "main.js": "/static/js/main.5279b93b.chunk.js",
+    "main.js.map": "/static/js/main.5279b93b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf719910.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf719910.js.map",
+    "static/js/2.65a95baf.chunk.js": "/static/js/2.65a95baf.chunk.js",
+    "static/js/2.65a95baf.chunk.js.map": "/static/js/2.65a95baf.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.84ab9a1935e272824080898d865bdbe5.js": "/precache-manifest.84ab9a1935e272824080898d865bdbe5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.372d8c52.chunk.css.map": "/static/css/main.372d8c52.chunk.css.map",
+    "static/js/2.65a95baf.chunk.js.LICENSE.txt": "/static/js/2.65a95baf.chunk.js.LICENSE.txt",
+    "static/media/header-3dishes.jpg": "/static/media/header-3dishes.f83c8e55.jpg",
+    "static/media/header-menu.png": "/static/media/header-menu.75a3fae5.png",
+    "static/media/header-thailand-icons.png": "/static/media/header-thailand-icons.0b7259e1.png",
+    "static/media/thailand-icons.png": "/static/media/thailand-icons.6fec814d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf719910.js",
+    "static/js/2.65a95baf.chunk.js",
+    "static/css/main.372d8c52.chunk.css",
+    "static/js/main.5279b93b.chunk.js"
+  ]
+}
